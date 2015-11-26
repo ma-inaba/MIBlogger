@@ -1,0 +1,18 @@
+//
+//  MIBloggerPrefixHeader.pch
+//  MIBlogger
+//
+//  Created by inaba masaya on 2015/07/04.
+//  Copyright (c) 2015年 inaba masaya. All rights reserved.
+//
+
+#ifndef MIBlogger_MIBloggerPrefixHeader_pch
+#define MIBlogger_MIBloggerPrefixHeader_pch
+
+#endif
+
+#import "Defines.h"
+#import "Utilitys.h"
+
+#import "ModelManager.h"
+#import "MIDefaultButton.h"
